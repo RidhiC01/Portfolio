@@ -1,0 +1,7 @@
+:root
+{
+      --skin-color:#fa5b0f;
+}
+.colours span.active {
+      border: 2px solid #000;
+    }
